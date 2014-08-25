@@ -1,0 +1,19 @@
+{
+  "name": "Express",
+  "version": "0.0.0",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "express": ">=4.0",
+    "morgan": "*",
+    "body-parser": "*",
+    "errorhandler": "*",
+    "method-override": "*",
+    "cookie-parser": "*",
+    "serve-favicon": "*",
+    "glob": "*",
+    "mongoose": "*",
+    "jade": "*"
+  }
+}
